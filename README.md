@@ -8,9 +8,8 @@
 
 
 ## Prerequisite 
-- [] Docker installation
+- Docker installation
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Running the app
 Need to run
@@ -34,5 +33,5 @@ The Appropriate sequence to test the APIs
 
 ## DB Diagram
 There five table `users`, `doctors`, `slots`, `patients`, and `appointments`.
-[Test Image 1](dbDiagram.png)
+![Test Image 1](./dbDiagram.png)
 
